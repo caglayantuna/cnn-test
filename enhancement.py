@@ -1,10 +1,6 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jun 21 14:26:58 2017
-
-@author: procom9
-"""
 
 import sys, getopt, gdal
 from osgeo.gdalconst import GA_ReadOnly
